@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toyeye.github.io/cubex-test/static/css/main.70aa1593.css",
+    "main.js": "/toyeye.github.io/cubex-test/static/js/main.13c33c9b.js",
+    "index.html": "/toyeye.github.io/cubex-test/index.html",
+    "main.70aa1593.css.map": "/toyeye.github.io/cubex-test/static/css/main.70aa1593.css.map",
+    "main.13c33c9b.js.map": "/toyeye.github.io/cubex-test/static/js/main.13c33c9b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70aa1593.css",
+    "static/js/main.13c33c9b.js"
+  ]
+}
