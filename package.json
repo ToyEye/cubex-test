@@ -1,7 +1,7 @@
 {
   "name": "cubex-test",
   "version": "0.1.0",
-  "homepage": "toyeye.github.io/cubex-test/",
+  "homepage": "https://ToyEye.github.io/cubex-test/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
